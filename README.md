@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Gaydos</h1>
-<h3 align="center">A passionate System Admin from United States</h3>
+<h3 align="center">A System Administrator</h3>
 
-
+- All of my projects are available at https://github.com/AaronPGaydos/
 - 📫 How to reach me **gaydosaaron@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
